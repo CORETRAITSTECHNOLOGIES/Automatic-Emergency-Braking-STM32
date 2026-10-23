@@ -4,6 +4,13 @@ An educational embedded prototype using **STM32 Nucleo-F401RE**, **Mbed OS** and
 
 **Safety notice:** Experimental laboratory code only. Not automotive-grade or validated for real braking/propulsion; never connect to a road vehicle.
 
+
+## Video demonstration
+
+[![Automatic Emergency Braking & Parking Assist — project demo](https://img.youtube.com/vi/fA8GedT4ios/hqdefault.jpg)](https://youtu.be/fA8GedT4ios)
+
+[Watch the project demonstration on YouTube](https://youtu.be/fA8GedT4ios)
+
 ## Architecture
 - Mbed threads for sensing, control, engine/ignition, and event dispatch
 - Mail-based inter-thread communication
